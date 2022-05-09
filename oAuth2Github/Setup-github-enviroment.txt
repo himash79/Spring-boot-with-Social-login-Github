@@ -1,0 +1,15 @@
+01) Sigin / login github.
+02) Go to settings.
+03) Chooose developer settings.
+04) Select auth apps.
+05) Click Resgister a new application.
+06) Fiil the below details, 
+	01) Application name.
+	02) Project Github sign in end-point (http://localhost:8090/).
+	03) Fill the application decription (It you need).
+	04) Fill the Authorized callback URL (http://localhost:8090/).
+	05) Click create application.
+07) Click the Generate a new client secret.
+08) Get a copy of Client ID and Client Secret.
+09) Upload a Image for Application Logo (If you need).
+10) Click Update Application.
